@@ -1,0 +1,21 @@
+﻿src/components/ui/CustomCursor.tsx(40,9): error TS2322: Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'EaseString | EaseFunction | undefined'.
+  Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type '{} & string'.
+    Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'string'.
+src/components/ui/CustomCursor.tsx(45,9): error TS2322: Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'EaseString | EaseFunction | undefined'.
+  Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type '{} & string'.
+    Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'string'.
+src/components/ui/CustomCursor.tsx(53,9): error TS2322: Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'EaseString | EaseFunction | undefined'.
+  Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type '{} & string'.
+    Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'string'.
+src/components/ui/CustomCursor.tsx(58,9): error TS2322: Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'EaseString | EaseFunction | undefined'.
+  Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type '{} & string'.
+    Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'string'.
+src/components/ui/Navigation.tsx(26,9): error TS2322: Type 'readonly [0.76, 0, 0.24, 1]' is not assignable to type 'EaseString | EaseFunction | undefined'.
+  Type 'readonly [0.76, 0, 0.24, 1]' is not assignable to type '{} & string'.
+    Type 'readonly [0.76, 0, 0.24, 1]' is not assignable to type 'string'.
+src/components/ui/Navigation.tsx(41,11): error TS2322: Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'EaseString | EaseFunction | undefined'.
+  Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type '{} & string'.
+    Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'string'.
+src/components/ui/Navigation.tsx(51,11): error TS2322: Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'EaseString | EaseFunction | undefined'.
+  Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type '{} & string'.
+    Type 'readonly [0.25, 0.46, 0.45, 0.94]' is not assignable to type 'string'.
